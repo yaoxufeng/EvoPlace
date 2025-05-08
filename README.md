@@ -225,4 +225,4 @@ python extract_results.py --benchmark ispd2019_ours --root_path <your_root_path>
 ```
 
 # Notes
-Due to size constraints, we have omitted the generated thoughts, all discovered algorithms, and embeddings files from this anonymous GitHub repository. These files will be provided in the future open-source GitHub version.
+Due to size constraints, we have omitted the generated thoughts, all discovered algorithms, and embeddings files from this version. These files will be provided in the future version.
